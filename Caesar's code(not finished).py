@@ -1,3 +1,4 @@
+#Programm for decriting / encripting Caesar's code .
 def Decryptor(string, step):
     result = ''
 
