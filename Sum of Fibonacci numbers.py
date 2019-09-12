@@ -1,3 +1,4 @@
+#You enter number and programm return sum of all Fibonacci numbers up to your number.
 n = int(input('Enter number: '))
 a = []
 
