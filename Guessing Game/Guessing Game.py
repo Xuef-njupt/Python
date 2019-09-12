@@ -1,6 +1,6 @@
-print("In this game computer need to guess your number")
+print("In this game computer need to guess your number from 1 to 100")
 print("If your number is bigger - print 1 ; if smaller - print 2 ; if equal - print 3")
-a = [14,13,12,11,10,9,8,7,6,5,4]
+a = [14,13,12,11,10,9,8,7,6,5,4,3]
 i = 0
 num = a[i]
 count = 0
