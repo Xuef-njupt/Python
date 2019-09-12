@@ -1,3 +1,4 @@
+#You need to guess the randomly gengerate number from 1 up to 10. Programm give a hint about you need smaller or larger number.
 import random
 
 number = random.randint(1,10)
